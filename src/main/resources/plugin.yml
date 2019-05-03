@@ -1,0 +1,5 @@
+name: QAVCollisionFix
+main: de.i9hdkill.qavcollisionfix.QAVCollisionFix
+version: ${project.version}
+softdepend: [QualityArmoryVehicles]
+api-version: 1.13
